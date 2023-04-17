@@ -7,4 +7,4 @@
   + Hàm mục tiêu: Hãng phải xác định mục tiêu cụ thể phải đạt tới
   + Các ràng buộc: Các ràng buộc dưới dạng các hạn chế về sự sẵn có của nguồn lực hay thỏa mãn các yêu cầu tối thiểu. Như tên gọi qui hoạch tuyến tính, cả hàm mục tiêu và các ràng buộc phải dưới dạng tuyến tính.
 - Ví dụ về Quy hoạch tuyến tính: 
-  ![image](https://user-images.githubusercontent.com/126397851/232415767-0ffbfb1c-f547-4242-bd45-416b16f8c101.png)
+- ![image](https://user-images.githubusercontent.com/126397851/232415767-0ffbfb1c-f547-4242-bd45-416b16f8c101.png)
